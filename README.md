@@ -33,6 +33,22 @@ Bem-vindo(a) ao meu repositório de projetos práticos desenvolvidos durante a t
 
   O limite do cheque especial é definido conforme o valor do depósito inicial, e há cobrança de taxa caso o limite seja utilizado, conforme as regras do exercício.
 
+- **controleFuncoesCarro**  
+  Simulação de controle de um carro com menu interativo, permitindo:
+
+  - Ligar e desligar o carro
+  - Acelerar e diminuir velocidade
+  - Virar para esquerda/direita
+  - Verificar velocidade
+  - Trocar marcha
+
+  **Estrutura:**
+
+  - `App.java`: Classe principal, responsável pelo menu interativo e execução do sistema.
+  - `Car.java`: Classe que representa o carro, com atributos privados e métodos para todas as funções e regras do veículo (ligar, desligar, acelerar, trocar marcha, etc).
+
+  O sistema respeita regras de segurança e funcionamento, como limites de velocidade por marcha, restrições para virar e desligar, e impede ações inválidas conforme o exercício proposto.
+
 ## 💡 Objetivo
 
 O objetivo deste repositório é compartilhar minha evolução na linguagem Java, além de servir como referência para quem está começando e deseja ver exemplos práticos de código.
