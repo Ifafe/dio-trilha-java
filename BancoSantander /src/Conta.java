@@ -6,10 +6,6 @@ public class Conta {
 
       // Construtor da classe Conta sem argumentos
       public Conta() {
-            this.numero = 0;
-            this.saldo = 0.0;
-            this.titular = new Cliente("Titular Padrão", "000.000.000-00");
-            this.limiteChequeEspecial = 0.0;
       }
 
       // Construtor da classe Conta com agumento para depósito inicial

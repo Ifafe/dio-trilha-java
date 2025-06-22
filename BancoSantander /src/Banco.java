@@ -42,8 +42,7 @@ public class Banco {
                     System.out.println("Opção inválida! Tente novamente.");
             }
 
-            if (opcao == 0) {
-                System.out.println("Saindo...");
+            if (opcao == 0){
                 break;
             }
         } while (true);

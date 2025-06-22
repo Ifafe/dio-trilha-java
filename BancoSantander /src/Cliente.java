@@ -4,8 +4,6 @@ public class Cliente {
 
       // Construtor da classe Cliente sem argumentos
       public Cliente() {
-            this.nome = "Nome Padrão";
-            this.cpf = "000.000.000-00";
       }
       // Construtor da classe Cliente com argumentos
       public Cliente(String nome, String cpf) 
