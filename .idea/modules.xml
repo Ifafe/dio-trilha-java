@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BancoSantander /BancoSantander.iml" filepath="$PROJECT_DIR$/BancoSantander /BancoSantander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerarIdentificadoresUnicos/GerarIdentificadoresUnicos.iml" filepath="$PROJECT_DIR$/GerarIdentificadoresUnicos/GerarIdentificadoresUnicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedirecionamentoURLsPadronizadas/RedirecionamentoURLsPadronizadas.iml" filepath="$PROJECT_DIR$/RedirecionamentoURLsPadronizadas/RedirecionamentoURLsPadronizadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleFuncoesCarro/controleFuncoesCarro.iml" filepath="$PROJECT_DIR$/controleFuncoesCarro/controleFuncoesCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+    </modules>
+  </component>
+</project>
