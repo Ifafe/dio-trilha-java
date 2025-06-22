@@ -16,6 +16,23 @@ Bem-vindo(a) ao meu repositório de projetos práticos desenvolvidos durante a t
 - **RedirecionamentoURLsPadronizadas**  
   Manipulação e padronização de URLs.
 
+- **BancoSantander**  
+  Sistema de conta bancária orientado a objetos, com as seguintes funcionalidades:
+
+  - Consultar saldo e cheque especial
+  - Depositar e sacar dinheiro
+  - Pagar boletos
+  - Verificar se a conta está usando cheque especial
+  - Menu interativo para o usuário
+
+  **Estrutura:**
+
+  - `Banco.java`: Classe principal, responsável pelo menu interativo e execução do sistema.
+  - `Cliente.java`: Representa o cliente do banco, com dados pessoais e métodos de acesso.
+  - `Conta.java`: Classe da conta bancária, com atributos privados, métodos para operações bancárias e lógica de cheque especial.
+
+  O limite do cheque especial é definido conforme o valor do depósito inicial, e há cobrança de taxa caso o limite seja utilizado, conforme as regras do exercício.
+
 ## 💡 Objetivo
 
 O objetivo deste repositório é compartilhar minha evolução na linguagem Java, além de servir como referência para quem está começando e deseja ver exemplos práticos de código.
