@@ -49,6 +49,23 @@ Bem-vindo(a) ao meu repositório de projetos práticos desenvolvidos durante a t
 
   O sistema respeita regras de segurança e funcionamento, como limites de velocidade por marcha, restrições para virar e desligar, e impede ações inválidas conforme o exercício proposto.
 
+- **iPhone-App**  
+  Projeto que simula as principais funcionalidades do iPhone 2007, com ênfase em Programação Orientada a Objetos (POO), uso de **interfaces** e **records** para modelagem moderna e robusta.
+
+  - Utiliza interfaces para definir contratos das funcionalidades (reprodutor musical, telefone, navegador de internet, etc).
+  - Aplica records para representar dados imutáveis e facilitar a manutenção do código.
+  - Demonstra encapsulamento, modularidade e reutilização de código.
+  - Menu interativo para o usuário explorar as funções do iPhone simulado.
+
+  **Principais classes e conceitos:**
+
+  - `Demo.java`: Menu interativo e gerenciamento das funcionalidades.
+  - `Aplicativo.java` (interface): Contrato para apps do sistema.
+  - `IPhone.java`: Classe principal do aparelho.
+  - `IPod.java`, `Telefone.java`, `NavegadorInternet.java`, `TelaTouch.java`: Implementações das funcionalidades do iPhone.
+
+  Este projeto destaca o uso de recursos modernos do Java, como records e interfaces, reforçando boas práticas de POO e design orientado a contratos.
+
 ## 💡 Objetivo
 
 O objetivo deste repositório é compartilhar minha evolução na linguagem Java, além de servir como referência para quem está começando e deseja ver exemplos práticos de código.
